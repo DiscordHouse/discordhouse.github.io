@@ -1,14 +1,10 @@
 navigation:
-  - name: FPS Games
+  - name: Development
     children:
-    - ARMA
-    - Call of Duty
-    - Counter-Strike Global Offensive
-    - Lawbreakers
-    - Left 4 Dead 2
-    - Reflex
-    - Unreal Tournament 4
-    - Warhammer
+    - Discord
+    - Windows
+    - Mac OS
+    - Rasberry Pi
   - name: Language
     children:
     - ENGLISH
